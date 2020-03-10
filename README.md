@@ -1,4 +1,4 @@
-# breakout-game
-Break Out Game with some new modiication and challange
+# KIOS-Game Breakout
 
-This game is develop for firefox OS
+Javascript Game build for KIOS feature phone
+
